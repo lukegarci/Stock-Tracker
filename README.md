@@ -1,6 +1,7 @@
 Overview
 
 This project is a simple Stock Price Tracker web application that allows users to track stock prices for multiple companies. The app dynamically fetches stock prices using the Yahoo Finance API via Flask and displays them on the frontend using jQuery for live updates. Users can add or remove stock tickers and the page will periodically refresh the stock prices and display changes.
+
 Features
 
     Add stock tickers to track and store them locally in the browser.
